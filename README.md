@@ -31,3 +31,5 @@ Habits to keep in mind in order to be effective in software development, a _"10x
 9. Take breaks
     - Exercise.
     - Clear mind for improved problem solving and prevent burnout.
+
+This habit list is incomplete
